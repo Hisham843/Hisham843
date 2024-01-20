@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "647120380954",
+    "project_id": "fir-p-f69be",
+    "storage_bucket": "fir-p-f69be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647120380954:android:48e02bc536a599668ddda3",
+        "android_client_info": {
+          "package_name": "com.hisham.project_june1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7J9p_Yaq0ZE95E2zNEqCbfAhgx5DN2c8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
